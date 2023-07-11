@@ -1,1 +1,1 @@
-# Semestre1-SAE-Comparaison_approches_algorithmiques_TAKUZU
+# Semestre 1 - SAE - Comparaison d'approches algorithmiques - TAKUZU
